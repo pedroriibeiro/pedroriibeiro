@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, my name is Pedro Ribeiro, I work with mobile development for iOS.
+
 <!--
 **pedroriibeiro/pedroriibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
