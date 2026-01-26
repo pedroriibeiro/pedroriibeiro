@@ -1,17 +1,18 @@
 <h2 align="left">Hello, I am Pedro Ribeiro</h2>
-iOS Developer
+
+**Mobile Software Engineer | iOS Specialist | Content Creator**
 
 ###
 
-💻 You can find my classes teaching Swift downloading my app Birdler available on the Apple Store [Birdler-Learn Swift](https://lnkd.in/d5Txpp6k)
+💻 **Educator & Developer** - I teach Swift and iOS development through my educational app [Birdler - Learn Swift](https://lnkd.in/d5Txpp6k), available on the Apple App Store.
 
+🌍 **International Experience** - I've worked with companies across 🇳🇴 Norway, 🇵🇹 Portugal, and 🇺🇸 United States, bringing a unique global perspective to mobile development.
 
+🎓 **Mentor & Content Creator** - Beyond coding, I focus on mentoring aspiring developers and creating content that shows the real, unfiltered reality of tech careers, helping newcomers enter the market the right way.
 
-🔴 I'm currently focused on SwiftUI and UIKit projects.
+🔴 **Currently focused on:** SwiftUI and UIKit projects
 
-
-
-🔵 My skills: UIKit, SwiftUI, MVVM, MVVM-C, MVC, Combine, API REST, Apple Store publishment, agile methodologies.
+🔵 **Technical Skills:** UIKit, SwiftUI, MVVM, MVVM-C, MVC, Combine, REST APIs, App Store publishing, Agile methodologies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroriibeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
