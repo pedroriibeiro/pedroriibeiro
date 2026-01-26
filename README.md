@@ -4,7 +4,7 @@
 
 ###
 
-💻 **Educator & Developer** - I teach Swift and iOS development through my educational app [Birdler - Learn Swift](https://lnkd.in/d5Txpp6k), available on the Apple App Store.
+💻 **Developer** - I work with Swift (iOS Development) - Flutter - JS.
 
 🌍 **International Experience** - I've worked with companies across 🇳🇴 Norway, 🇵🇹 Portugal, and 🇺🇸 United States, bringing a unique global perspective to mobile development.
 
